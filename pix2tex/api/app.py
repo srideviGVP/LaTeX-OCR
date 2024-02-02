@@ -4,7 +4,7 @@ from http import HTTPStatus
 from fastapi import FastAPI, File, UploadFile, Form
 from PIL import Image
 from io import BytesIO
-from cli import LatexOCR
+#from cli import LatexOCR
 
 model = None
 app = FastAPI(title='pix2tex API')
