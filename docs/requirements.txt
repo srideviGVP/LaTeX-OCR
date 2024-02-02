@@ -1,2 +1,3 @@
 myst_parser
 torch>=1.7.1
+fastAPI
