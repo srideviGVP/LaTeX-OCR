@@ -1,4 +1,4 @@
-from pix2tex.dataset.transforms import test_transform
+from transforms import test_transform
 import pandas.io.clipboard as clipboard
 from PIL import ImageGrab
 from PIL import Image
